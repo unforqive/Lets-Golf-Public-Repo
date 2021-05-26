@@ -10,7 +10,6 @@ Current status at a glance:
 <pre>Unity Version: 2020.2.4f1
 Platform     : Windows
 Current State: Beta
-Build Size   : 43 MB (Compressed), ~254 MB (Uncompressed)
 </pre>
 
 ## Running the project:
