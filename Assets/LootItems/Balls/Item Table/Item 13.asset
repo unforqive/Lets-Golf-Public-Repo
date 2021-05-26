@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e6c6f1005d5f6a43bfc3e3e47ce6fa0, type: 3}
+  m_Name: Item 13
+  m_EditorClassIdentifier: 
+  itemID: 13
+  itemName: Orange
+  itemImage: {fileID: 0}
+  itemQuality: Common
+  itemColour: {r: 0.42745098, g: 0.92941177, b: 0.26666668, a: 1}
+  itemObject: {fileID: 6781199321300217597, guid: 3dd6ddecc35f5394aa3c348852be8598,
+    type: 3}
+  rarity: 15
