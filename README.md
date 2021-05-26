@@ -28,7 +28,4 @@ Downloading a zip file using the green button Github will not work. You must clo
 
 ## Getting the right version of Unity:
 
-Once you have cloned the repository, you should install the version of Unity that is listed above in the status section. Make sure you include windows standalone support in your installiation.
-
-## For enquiries and/or feedback:
-Head to http://discord.gg/ChZFtPxksP.
+Once you have cloned the repository, you should install the version of Unity that is listed above in the status section. Make sure you include windows standalone support in your installation.
